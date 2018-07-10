@@ -39,3 +39,9 @@ Terminei de assistir ao capítulo 6 e fiz os exercícios do capítulo 7
 - Exercicio 8 - Solução https://play.golang.org/p/R1b44jQg3q__Y
 - Exercicio 9 - Solução https://play.golang.org/p/8xFBiANRjtq
 - Exercicio 10 - Solução https://play.golang.org/p/z2oNYnLN0X1
+
+## Dia 4
+Continuando o [curso de Go](https://greatercommons.com/learn/golang-ptbr)
+Assisti/li notas de aula do capítulo 8 (arrays, slices e maps) e fiz 2 exercícios do capítulo 9
+- Exercício 1 - Solução https://play.golang.org/p/rJaEa0fh8es
+- Exercício 2 - Solução https://play.golang.org/p/yukeHE--dk8
