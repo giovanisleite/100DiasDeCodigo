@@ -23,3 +23,19 @@ Capítulo 4 e 5 desse [curso de Go](https://greatercommons.com/learn/golang-ptbr
 - Exercício 5 - Solução https://play.golang.org/p/8DEjtQl3m7Y
 - Exercício 6 - Solução https://play.golang.org/p/UFkrnGumPV8
 - Prova - 13/18 :dizzy_face: - Erros revisados :muscle:
+
+## Dia 3
+Continuando o [curso de Go](https://greatercommons.com/learn/golang-ptbr)
+Desafio surpresa (Aula 6, Capítulo 6) -> https://play.golang.org/p/5oIwQlQC4ep
+Terminei de assistir ao capítulo 6 e fiz os exercícios do capítulo 7
+
+- Exercício 1 - Solução https://play.golang.org/p/2owMVaqMIcg
+- Exercício 2 - Solução https://play.golang.org/p/TsW5xTDbEvO
+- Exercicio 3 - Solução https://play.golang.org/p/RpsATEKDM8o
+- Exercicio 4 - Solução https://play.golang.org/p/G_Ppp0tB-jp
+- Exercicio 5 - Solução https://play.golang.org/p/oV_EAsUznkD
+- Exercicio 6 - Solução https://play.golang.org/p/TcMnu1c7w6T
+- Exercicio 7 - Solução https://play.golang.org/p/jMSjWs7FDoR
+- Exercicio 8 - Solução https://play.golang.org/p/R1b44jQg3q__Y
+- Exercicio 9 - Solução https://play.golang.org/p/8xFBiANRjtq
+- Exercicio 10 - Solução https://play.golang.org/p/z2oNYnLN0X1
