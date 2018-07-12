@@ -42,8 +42,23 @@ Terminei de assistir ao capítulo 6 e fiz os exercícios do capítulo 7
 
 ## Dia 4
 Continuando o [curso de Go](https://greatercommons.com/learn/golang-ptbr)
-Assisti/li notas de aula do capítulo 8 (arrays, slices e maps) e fiz 2 exercícios do capítulo 9
+Assisti/li notas de aula do capítulo 8 (arrays, slices e maps) e fiz 4 exercícios do capítulo 9
 - Exercício 1 - Solução https://play.golang.org/p/rJaEa0fh8es
 - Exercício 2 - Solução https://play.golang.org/p/yukeHE--dk8
 - Exercício 3 - Solução https://play.golang.org/p/3FHkR8d9zaI
 - Exercício 4 - Solução https://play.golang.org/p/MreuZe4lBYn
+
+## Dia 5
+Continuei os exercícios do capítulo 9
+- Exercício 5 - Solução https://play.golang.org/p/77K_y26knRl
+- Exercício 6 - Solução https://play.golang.org/p/IPqiu9n06x6
+- Exercício 7 - Solução https://play.golang.org/p/xIYR45JHPIA
+- Exercício 8 - Solução https://play.golang.org/p/-KZvU3rRIJV
+- Exercício 9 - Solução https://play.golang.org/p/AmDftb7x9pf
+- Exercício 10 - Solução https://play.golang.org/p/vYGbuu2M0fq
+
+Assisti ao capítulo 10 (struct) e fiz os exercícios do capítulo 11.
+- Exercício 1 - Solução https://play.golang.org/p/MaHRznSunwe
+- Exercício 2 - Solução https://play.golang.org/p/z0K4S57_b3t
+- Exercício 3 - Solução https://play.golang.org/p/sKwz5PeN-R4
+- Exercício 4 - Solução https://play.golang.org/p/zcy3QKysTCO
