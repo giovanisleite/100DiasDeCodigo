@@ -62,3 +62,7 @@ Assisti ao capítulo 10 (struct) e fiz os exercícios do capítulo 11.
 - Exercício 2 - Solução https://play.golang.org/p/z0K4S57_b3t
 - Exercício 3 - Solução https://play.golang.org/p/sKwz5PeN-R4
 - Exercício 4 - Solução https://play.golang.org/p/zcy3QKysTCO
+
+## Dia 6
+Spider para extração dos diários oficiais do Guarujá (SP)
+https://github.com/okfn-brasil/diario-oficial/pull/96
