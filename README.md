@@ -26,7 +26,9 @@ Capítulo 4 e 5 desse [curso de Go](https://greatercommons.com/learn/golang-ptbr
 
 ## Dia 3
 Continuando o [curso de Go](https://greatercommons.com/learn/golang-ptbr)
+
 Desafio surpresa (Aula 6, Capítulo 6) -> https://play.golang.org/p/5oIwQlQC4ep
+
 Terminei de assistir ao capítulo 6 e fiz os exercícios do capítulo 7
 
 - Exercício 1 - Solução https://play.golang.org/p/2owMVaqMIcg
@@ -42,7 +44,9 @@ Terminei de assistir ao capítulo 6 e fiz os exercícios do capítulo 7
 
 ## Dia 4
 Continuando o [curso de Go](https://greatercommons.com/learn/golang-ptbr)
+
 Assisti/li notas de aula do capítulo 8 (arrays, slices e maps) e fiz 4 exercícios do capítulo 9
+
 - Exercício 1 - Solução https://play.golang.org/p/rJaEa0fh8es
 - Exercício 2 - Solução https://play.golang.org/p/yukeHE--dk8
 - Exercício 3 - Solução https://play.golang.org/p/3FHkR8d9zaI
@@ -64,5 +68,12 @@ Assisti ao capítulo 10 (struct) e fiz os exercícios do capítulo 11.
 - Exercício 4 - Solução https://play.golang.org/p/zcy3QKysTCO
 
 ## Dia 6
-Spider para extração dos diários oficiais do Guarujá (SP)
+Implementei a Spider para extração dos diários oficiais do Guarujá (SP)
 https://github.com/okfn-brasil/diario-oficial/pull/96
+
+## Dia 7
+(Deveria ter sido o 8, mas sou vacilão)
+
+Assisti ao capítulo 12 do [curso de Go](https://greatercommons.com/learn/golang-ptbr)
+
+Desafio - Aula Callbacks - Solução https://play.golang.org/p/aaZOTcCtmnx
