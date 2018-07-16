@@ -77,3 +77,17 @@ https://github.com/okfn-brasil/diario-oficial/pull/96
 Assisti ao capítulo 12 do [curso de Go](https://greatercommons.com/learn/golang-ptbr)
 
 Desafio - Aula Callbacks - Solução https://play.golang.org/p/aaZOTcCtmnx
+
+## Dia 8
+Continuando o curso de go, fazendo os exercícios do capítulo 13
+- Exercício 1 - Solução https://play.golang.org/p/TX8YKhNIsPk
+- Exercício 2 - Solução https://play.golang.org/p/ojwZULkj92h
+- Exercício 3 - Solução https://play.golang.org/p/9tegyed8NWE
+- Exercício 4 - Solução https://play.golang.org/p/4IgN9KKI59w
+- Exercício 5 - Solução https://play.golang.org/p/JO3oBBPt3vQ
+- Exercício 6 - Solução https://play.golang.org/p/UdNknTfidWl
+- Exercício 7 - Solução https://play.golang.org/p/Zd5D3dbS6Er
+- Exercício 8 - Solução https://play.golang.org/p/JOaqgag_-vT
+- Exercício 9 - Solução https://play.golang.org/p/JSJahu8CTlt
+- Exercício 10 - Solução https://play.golang.org/p/KG3bitra4-0
+- Exercício 11 - (...)
