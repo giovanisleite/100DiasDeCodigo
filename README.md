@@ -95,4 +95,7 @@ Continuando o curso de go, fazendo os exercícios do capítulo 13
 # Dia 9
 Comecei no exercism, mas não está mt produtivo
 
-Assisti ao capítulo 14 (ponteiros), fiz os exercícios do 15 (perdi os links pq a bateria acabou) e assisti ao 16 (aplicações: json, writer, sort, bcrypt)
+Assisti ao capítulo 14 (ponteiros), fiz os exercícios do 15 (perdi o primeiro pq a bateria acabou) e assisti ao 16 (aplicações: json, writer, sort, bcrypt)
+
+- Exercício 2 - Solução https://play.golang.org/p/yHxVnVaOMwS
+
