@@ -99,3 +99,10 @@ Assisti ao capítulo 14 (ponteiros), fiz os exercícios do 15 (perdi o primeiro 
 
 - Exercício 2 - Solução https://play.golang.org/p/yHxVnVaOMwS
 
+## Dia 10
+Fiz os exercícios do capítulo 17 do curso de Go
+- Exercício 1 - Solução https://play.golang.org/p/iAExSigTajl
+- Exercício 2 - Solução https://play.golang.org/p/AFKb9PwbgCT
+- Exercício 3 - Solução https://play.golang.org/p/lecw6ZYQpCT
+- Exercício 4 - Solução https://play.golang.org/p/Ig3g-RPkLtp
+- Exercício 5 - Solução https://play.golang.org/p/3Jj4U4zWzpf
