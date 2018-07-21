@@ -8,10 +8,12 @@ import (
 	"io"
 	"os"
 	"strings"
+    "time"
 )
 
 func main() {
 	problems_file := flag.String("file", "problems.csv", "Path to the problems file")
+    timelimit := flag.Int("timelimit", 30, "Integer - Timelimit (seconds) to answer the questions")
 	flag.Parse()
 
 	f, err := os.Open(*problems_file)
@@ -23,30 +25,40 @@ func main() {
 	file_reader := csv.NewReader(f)
 	answer_reader := bufio.NewReader(os.Stdin)
 
-	fmt.Println("Quiz:")
-	score, fails := 0, 0
+    timer := time.NewTimer(timelimit * time.Second)
+    score := 0
+	fmt.Println("The quiz will start soon just as the timer, press any button to start the game.")
+    _, _ = answer_reader.ReadString('\n')
+    go func(){
+        <-timer.C
+        exit(fmt.Sprintf("You scored %v.", score))
+
+    }()
 	for {
 		line, err := file_reader.Read()
 		if err == io.EOF {
 			break
 		}
 		if err != nil {
-			fmt.Println(err)
-            break
+            exit(err)
 		}
         problem, answer := line[0], line[1]
 		fmt.Println(problem)
 		fmt.Print("Your answer is: ")
 		user_answer, err := answer_reader.ReadString('\n')
 		if err != nil {
-			fmt.Println(err)
-            break
+			exit(err)
 		}
 		if strings.TrimSpace(answer) == strings.TrimSpace(user_answer) {
 			score++
-		} else {
-			fails++
 		}
 	}
-	fmt.Printf("Successes: %v. Fails: %v.\n", score, fails)
+    timer.Stop()
+	fmt.Printf("You scored: %v.\n", score)
+}
+
+
+func exit(message string){
+    fmt.Printf("\n%s\n", message)
+    os.Exit(1)
 }
