@@ -106,3 +106,6 @@ Fiz os exercícios do capítulo 17 do curso de Go
 - Exercício 3 - Solução https://play.golang.org/p/lecw6ZYQpCT
 - Exercício 4 - Solução https://play.golang.org/p/Ig3g-RPkLtp
 - Exercício 5 - Solução https://play.golang.org/p/3Jj4U4zWzpf
+
+## Dia 11
+Fiz o (Gophercise #1)[https://gophercises.com/exercises/quiz]
