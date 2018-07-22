@@ -109,3 +109,8 @@ Fiz os exercícios do capítulo 17 do curso de Go
 
 ## Dia 11
 Fiz o (Gophercise #1)[https://gophercises.com/exercises/quiz]
+
+## Dia 12
+Fiz o (Gophercise #2)[https://gophercises.com/exercises/urlshort]
+
+- http, map, yaml, struct
