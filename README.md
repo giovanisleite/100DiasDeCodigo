@@ -108,9 +108,9 @@ Fiz os exercícios do capítulo 17 do curso de Go
 - Exercício 5 - Solução https://play.golang.org/p/3Jj4U4zWzpf
 
 ## Dia 11
-Fiz o (Gophercise #1)[https://gophercises.com/exercises/quiz]
+Fiz o [Gophercise #1](https://gophercises.com/exercises/quiz)
 
 ## Dia 12
-Fiz o (Gophercise #2)[https://gophercises.com/exercises/urlshort]
+Fiz o [Gophercise #2](https://gophercises.com/exercises/urlshort)
 
 - http, map, yaml, struct
