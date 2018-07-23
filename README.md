@@ -114,3 +114,7 @@ Fiz o [Gophercise #1](https://gophercises.com/exercises/quiz)
 Fiz o [Gophercise #2](https://gophercises.com/exercises/urlshort)
 
 - http, map, yaml, struct
+
+
+## Dia 13
+Sofri com um exercício do URI, ainda não solucionei. Percebi que os erros estão com os inteiros gigantes, vou dar uma olhada no big.Int próxima vez que for tentar >.>
