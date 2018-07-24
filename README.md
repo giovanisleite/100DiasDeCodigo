@@ -118,3 +118,6 @@ Fiz o [Gophercise #2](https://gophercises.com/exercises/urlshort)
 
 ## Dia 13
 Sofri com um exercício do URI, ainda não solucionei. Percebi que os erros estão com os inteiros gigantes, vou dar uma olhada no big.Int próxima vez que for tentar >.>
+
+## Dia 14
+3 Exercícios de GO e estudei algumas formas de melhorar a legibilidade e eficiência no Python com https://www.youtube.com/watch?v=OSGv2VnC0go
