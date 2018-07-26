@@ -121,3 +121,6 @@ Sofri com um exercício do URI, ainda não solucionei. Percebi que os erros est�
 
 ## Dia 14
 3 Exercícios de GO e estudei algumas formas de melhorar a legibilidade e eficiência no Python com https://www.youtube.com/watch?v=OSGv2VnC0go
+
+## Dia 15
+Comecei a fazer uma aplicação com rails (pra relembrar) e react (pra aprender) =)
