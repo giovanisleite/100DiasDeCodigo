@@ -127,3 +127,6 @@ Comecei a fazer uma aplicação com rails (pra relembrar) e react (pra aprender)
 
 ## Dia 16
 Terminei a aplicação com Rails e React seguindo esse [tutorial](https://medium.com/quick-code/simple-rails-crud-app-with-react-frontend-using-react-rails-gem-b708b89a9419)
+
+## Dia 17
+Fazendo a famigerada todo list para afiar rails api
