@@ -130,3 +130,6 @@ Terminei a aplicação com Rails e React seguindo esse [tutorial](https://medium
 
 ## Dia 17
 Fazendo a famigerada todo list para afiar rails api
+
+## Dia 18
+Fiz a parte de autenticação da API usando Json web token e as tratativas de erro
