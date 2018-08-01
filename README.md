@@ -133,3 +133,6 @@ Fazendo a famigerada todo list para afiar rails api
 
 ## Dia 18
 Fiz a parte de autenticação da API usando Json web token e as tratativas de erro
+
+## Dia 19
+Vi mais algumas coisas sobre APIS em ruby on rails (pagination, versioning e serializers), mas bem por cima.. dia muito cheio
