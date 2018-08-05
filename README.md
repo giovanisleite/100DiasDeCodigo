@@ -136,3 +136,6 @@ Fiz a parte de autenticação da API usando Json web token e as tratativas de er
 
 ## Dia 19
 Vi mais algumas coisas sobre APIS em ruby on rails (pagination, versioning e serializers), mas bem por cima.. dia muito cheio
+
+## Dia 20
+Li uma parte do Desenvolvimento Web Agil com Rails para firmar meu conhecimento sobre o framework
