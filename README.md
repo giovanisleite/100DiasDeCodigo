@@ -139,3 +139,6 @@ Vi mais algumas coisas sobre APIS em ruby on rails (pagination, versioning e ser
 
 ## Dia 20
 Li uma parte do Desenvolvimento Web Agil com Rails para firmar meu conhecimento sobre o framework
+
+## Dia 21
+Retomando pós descanso necessário. Fiz alguns desafios em javascript =)
