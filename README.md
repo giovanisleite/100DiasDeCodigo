@@ -142,3 +142,9 @@ Li uma parte do Desenvolvimento Web Agil com Rails para firmar meu conhecimento 
 
 ## Dia 21
 Retomando pós descanso necessário. Fiz alguns desafios em javascript =)
+
+## Dia 22
+Exercício da semana 4 do JSNinja
+
+## Dia 23
+Exercícios 5 e 6 do JSNinja
