@@ -148,3 +148,9 @@ Exercício da semana 4 do JSNinja
 
 ## Dia 23
 Exercícios 5 e 6 do JSNinja
+
+## Dia 24
+Exercício 7 do JSNinja
+
+## Dia 25
+Exercícios 8, 9 e 10 do JSNinja
