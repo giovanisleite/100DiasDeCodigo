@@ -157,3 +157,9 @@ Exercícios 8, 9 e 10 do JSNinja
 
 ## Dia 26
 Exercício 11 do JSNinja =)
+
+## Dia 27
+Fiz um crawler em python para pegar títulos de algumas páginas e assisti as aulas da semana 12 do JSNinja
+
+## Dia 28
+Fiz o exercício da semana 12 do JSNinja
