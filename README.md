@@ -163,3 +163,9 @@ Fiz um crawler em python para pegar títulos de algumas páginas e assisti as au
 
 ## Dia 28
 Fiz o exercício da semana 12 do JSNinja
+
+## Dia 29
+Fiz o exercício da semana 13 do JSNinja
+
+## Dia 30
+Fiz os exercícios 14 e 15
