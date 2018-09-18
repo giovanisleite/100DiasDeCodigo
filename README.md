@@ -169,3 +169,6 @@ Fiz o exercício da semana 13 do JSNinja
 
 ## Dia 30
 Fiz os exercícios 14 e 15
+
+## Dia 31
+Fiz o exercício 16 do JS Ninja
