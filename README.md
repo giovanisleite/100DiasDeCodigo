@@ -172,3 +172,6 @@ Fiz os exercícios 14 e 15
 
 ## Dia 31
 Fiz o exercício 16 do JS Ninja
+
+## Dia 32
+Fiz o exercício 18 do JS Ninja
