@@ -175,3 +175,6 @@ Fiz o exercício 16 do JS Ninja
 
 ## Dia 32
 Fiz o exercício 17 do JS Ninja
+
+## Dia 33
+Ajeitei um projeto em python e brinquei com mais regex no exercício 18 do JS Ninja
