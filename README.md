@@ -185,3 +185,6 @@ Assisti as aulas do Capítulo 19
 ## Dia 35
 Terminei os exercícios de regex (cap 19) que são super divertidos e descobri que eu já sabia até algumas coisas mais avançadas de regex graças ao pull request do Diario Oficial que nunca terminei (https://github.com/okfn-brasil/diario-oficial/pull/34).
 Assisti as aulas e fiz os exercícios dos caps 20, 21 e 22 tbm, que teve algumas coisas que eu não sabia do javascript (call, apply) e outras pra tirar vicios de qm só aprendeu seleção com jQuery tipo eu hahaha
+
+## Dia 36
+Estudei um pouco sobre debug em javascript com as aulas do cap 23 do JS Ninja
