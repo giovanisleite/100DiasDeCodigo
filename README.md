@@ -188,3 +188,6 @@ Assisti as aulas e fiz os exercícios dos caps 20, 21 e 22 tbm, que teve algumas
 
 ## Dia 36
 Estudei um pouco sobre debug em javascript com as aulas do cap 23 do JS Ninja
+
+## Dia 37
+Primeira contribuição do Hacktober \o/ e ao Croods, uma biblioteca que facilita fazer crood com o React
