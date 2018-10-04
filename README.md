@@ -194,3 +194,6 @@ Primeira contribuição do Hacktober \o/ e ao Croods, uma biblioteca que facilit
 
 ## Dia 38
 Segunda contribuição do hacktober \o/ dessa vez ao Jarbas do Serenata de Amor e 5 aulas do React Ninja =)
+
+## Dia 39
+Terceira contribuição do hacktober \o/ Fiz o crawler dos diarios oficiais da cidade de Nova Iguaçu do Rio de Janeiro
