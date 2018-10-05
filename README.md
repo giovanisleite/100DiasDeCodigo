@@ -197,3 +197,6 @@ Segunda contribuição do hacktober \o/ dessa vez ao Jarbas do Serenata de Amor 
 
 ## Dia 39
 Terceira contribuição do hacktober \o/ Fiz o crawler dos diarios oficiais da cidade de Nova Iguaçu do Rio de Janeiro
+
+## Dia 40
+Fiz mais coisas para o croods, a biblioteca que facilita crud no react, aumentando o coverage dos testes
